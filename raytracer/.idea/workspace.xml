@@ -1,263 +1,279 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c48f60b-239c-490b-8836-1e0792a6b546" name="Default Changelist" comment="" />
+    <list default="true" id="39a45645-9ab1-4677-bea6-b8dbf13c02ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/raytracing/geometry/world/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/raytracing/geometry/world/World.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="raytracer" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="raytracer" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="raytracer" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="application" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/raytracing/geometry/Ray.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/raytracing/geometry/world/World.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="JavaFXApplication" />
-        <option value="Class" />
-        <option value="Interface" />
+        <option value="$PROJECT_DIR$/src/main/java/io/raytracing/geometry/world/World.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1XuII2tmSUilgHipidKrdG4XLdW" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="19" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="791" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="raytracer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raytracer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="raytracer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raytracer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="raytracer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raytracer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="raytracer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raytracer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="raytracer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raytracer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="raytracer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raytracer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="raytracing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="raytracer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raytracer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="raytracing" type="462c0819:PsiDirectoryNode" />
+              <item name="geometry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="raytracer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raytracer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="raytracing" type="462c0819:PsiDirectoryNode" />
+              <item name="geometry" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractentity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="raytracer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raytracer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="raytracing" type="462c0819:PsiDirectoryNode" />
+              <item name="geometry" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="raytracer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raytracer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="raytracing" type="462c0819:PsiDirectoryNode" />
+              <item name="geometry" type="462c0819:PsiDirectoryNode" />
+              <item name="world" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="raytracer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raytracer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="raytracing" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="raytracer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="raytracer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="raytracing" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../repos/BMSTU-4th-semester/computer_graphics/lab_01/build.gradle" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.raytracing.Main" />
-      <module name="raytracer.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.raytracing.Main" />
-      <module name="raytracer.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.raytracing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="raytracer [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="run" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
+  <component name="RunDashboard">
+    <option name="ruleStates">
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Gradle.raytracer [run]" />
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
       </list>
-    </recent_temporary>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c48f60b-239c-490b-8836-1e0792a6b546" name="Default Changelist" comment="" />
-      <created>1581889469809</created>
+      <changelist id="39a45645-9ab1-4677-bea6-b8dbf13c02ef" name="Default Changelist" comment="" />
+      <created>1587901175926</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581889469809</updated>
-      <workItem from="1581889473588" duration="4176000" />
-      <workItem from="1581933698257" duration="1562000" />
-      <workItem from="1582200817766" duration="6854000" />
-      <workItem from="1582652090774" duration="239000" />
-      <workItem from="1582658204000" duration="5510000" />
-      <workItem from="1582700778539" duration="11404000" />
-      <workItem from="1582720958951" duration="4888000" />
-      <workItem from="1582730805681" duration="234000" />
-      <workItem from="1582752067650" duration="4071000" />
-      <workItem from="1582807576399" duration="211000" />
-      <workItem from="1582829166050" duration="89000" />
-      <workItem from="1582829274728" duration="426000" />
-      <workItem from="1582836973085" duration="4280000" />
-      <workItem from="1582893997139" duration="1146000" />
-      <workItem from="1582909257838" duration="7091000" />
-      <workItem from="1582973251058" duration="590000" />
-      <workItem from="1582981579531" duration="953000" />
-      <workItem from="1583482284743" duration="2118000" />
-      <workItem from="1583497540437" duration="2593000" />
-      <workItem from="1583501709192" duration="1839000" />
-      <workItem from="1583511240394" duration="24129000" />
-      <workItem from="1583574234359" duration="149000" />
-      <workItem from="1583831426929" duration="64000" />
-      <workItem from="1583853346681" duration="43000" />
-      <workItem from="1583853412248" duration="134000" />
-      <workItem from="1584037074873" duration="4098000" />
-      <workItem from="1587814826989" duration="51000" />
+      <updated>1587901175926</updated>
+      <workItem from="1587901177523" duration="170000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="170000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="19" y="23" width="1400" height="791" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="584" y="214" width="848" height="677" key="#Project_Structure" timestamp="1581940748098">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state x="584" y="214" width="848" height="677" key="#Project_Structure/58.25.1862.1055@58.25.1862.1055" timestamp="1581940748098" />
-    <state x="447" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581940573090">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state x="447" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/58.25.1862.1055@58.25.1862.1055" timestamp="1581940573090" />
-    <state x="797" y="264" width="548" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1584038660269">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state x="797" y="264" width="548" height="577" key="#com.intellij.ide.util.MemberChooser/58.25.1862.1055@58.25.1862.1055" timestamp="1584038660269" />
-    <state x="672" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582909266129">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state x="672" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/58.25.1862.1055@58.25.1862.1055" timestamp="1582909266129" />
-    <state x="570" y="480" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582202479475">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state x="570" y="480" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/58.25.1862.1055@58.25.1862.1055" timestamp="1582202479475" />
-    <state x="514" y="25" width="930" height="1055" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582925100114">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state x="514" y="25" width="930" height="1055" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/58.25.1862.1055@58.25.1862.1055" timestamp="1582925100114" />
-    <state x="722" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583499408839">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state x="722" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/58.25.1862.1055@58.25.1862.1055" timestamp="1583499408839" />
-    <state x="772" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582752446351">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state x="772" y="310" width="424" height="484" key="FileChooserDialogImpl/58.25.1862.1055@58.25.1862.1055" timestamp="1582752446351" />
-    <state width="1821" height="253" key="GridCell.Tab.0.bottom" timestamp="1587814876884">
-      <screen x="53" y="25" width="1867" height="1055" />
-    </state>
-    <state width="1821" height="253" key="GridCell.Tab.0.bottom/53.25.1867.1055@53.25.1867.1055" timestamp="1587814876884" />
-    <state width="1816" height="366" key="GridCell.Tab.0.bottom/58.25.1862.1055@58.25.1862.1055" timestamp="1584041173353" />
-    <state width="1821" height="253" key="GridCell.Tab.0.center" timestamp="1587814876881">
-      <screen x="53" y="25" width="1867" height="1055" />
-    </state>
-    <state width="1821" height="253" key="GridCell.Tab.0.center/53.25.1867.1055@53.25.1867.1055" timestamp="1587814876881" />
-    <state width="1816" height="366" key="GridCell.Tab.0.center/58.25.1862.1055@58.25.1862.1055" timestamp="1584041173353" />
-    <state width="1821" height="253" key="GridCell.Tab.0.left" timestamp="1587814876880">
-      <screen x="53" y="25" width="1867" height="1055" />
-    </state>
-    <state width="1821" height="253" key="GridCell.Tab.0.left/53.25.1867.1055@53.25.1867.1055" timestamp="1587814876880" />
-    <state width="1816" height="366" key="GridCell.Tab.0.left/58.25.1862.1055@58.25.1862.1055" timestamp="1584041173352" />
-    <state width="1821" height="253" key="GridCell.Tab.0.right" timestamp="1587814876882">
-      <screen x="53" y="25" width="1867" height="1055" />
-    </state>
-    <state width="1821" height="253" key="GridCell.Tab.0.right/53.25.1867.1055@53.25.1867.1055" timestamp="1587814876882" />
-    <state width="1816" height="366" key="GridCell.Tab.0.right/58.25.1862.1055@58.25.1862.1055" timestamp="1584041173353" />
-    <state width="1816" height="366" key="GridCell.Tab.1.bottom" timestamp="1584041173355">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state width="1816" height="366" key="GridCell.Tab.1.bottom/58.25.1862.1055@58.25.1862.1055" timestamp="1584041173355" />
-    <state width="1816" height="366" key="GridCell.Tab.1.center" timestamp="1584041173354">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state width="1816" height="366" key="GridCell.Tab.1.center/58.25.1862.1055@58.25.1862.1055" timestamp="1584041173354" />
-    <state width="1816" height="366" key="GridCell.Tab.1.left" timestamp="1584041173354">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state width="1816" height="366" key="GridCell.Tab.1.left/58.25.1862.1055@58.25.1862.1055" timestamp="1584041173354" />
-    <state width="1816" height="366" key="GridCell.Tab.1.right" timestamp="1584041173354">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state width="1816" height="366" key="GridCell.Tab.1.right/58.25.1862.1055@58.25.1862.1055" timestamp="1584041173354" />
-    <state x="298" y="144" width="1372" height="817" key="new project wizard" timestamp="1582829696309">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state x="298" y="144" width="1372" height="817" key="new project wizard/58.25.1862.1055@58.25.1862.1055" timestamp="1582829696309" />
-    <state x="652" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1583567754714">
-      <screen x="58" y="25" width="1862" height="1055" />
-    </state>
-    <state x="652" y="257" width="672" height="678" key="search.everywhere.popup/58.25.1862.1055@58.25.1862.1055" timestamp="1583567754714" />
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/raytracing/geometry/Ray.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/raytracing/geometry/world/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/io/raytracing/ui/MainController.java</url>
-          <line>82</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

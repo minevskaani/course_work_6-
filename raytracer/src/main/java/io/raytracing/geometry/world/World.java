@@ -24,7 +24,7 @@ public class World {
     private double xCoef;
     private double yCoef;
     private final WorldData data = new WorldData();
-    private ViewField vf = new ViewField();
+    private ViewField vf = new VsiewField();
 
     private final int THREADS_COUNT = 4;
 
@@ -68,7 +68,7 @@ public class World {
 
 
     public void render(int zoom) {
-        // TODO add threads
+
         int start = 0;
         int end = 0;
         double dcw = canvasWidth;
@@ -81,7 +81,7 @@ public class World {
             ThreadParams params = new ThreadParams();
             params.start = start;
             params.end = end;
-            //threads[i] = std::thread(&World::render_coloumns, this, this, params, zoom);
+            // Thread for renderColumns params and zoom
             renderColumns(this, params, zoom);
 
             start += step;
@@ -89,7 +89,7 @@ public class World {
         /*
         for (int i = 0; i < THREADS_COUNT; i++)
         {
-            threads[i].join();
+            Join all threads
         }
          */
 
